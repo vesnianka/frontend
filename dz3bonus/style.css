@@ -1,0 +1,48 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	width: 960px;
+	height: 883px;	
+}
+.wrapper {
+	padding: 0 0 0 70px;
+	background-image: url(img/fon.jpg);
+	background-repeat: no-repeat; 
+}
+.contact {
+	float: right;
+	padding: 145px 85px 0 0;
+	font-size: 12px;
+	color: #dddddd;
+}
+h1 {
+	padding: 55px 0 0 0;
+}
+.catalog li {
+		display: inline-block;
+		margin: 0 15px 15px 0;
+		height: 245px;
+		vertical-align: top;
+		text-align: center;
+		list-style: none;
+	}
+.catalog img {
+		display: block;
+		margin-bottom: 5px;
+		box-shadow: 0 0 2px 3px rgba(157,157,157,1);
+	}	
+.catalog a {
+	text-decoration: none;
+	font-size: 18px;
+	font-family: Tahoma;
+	color: #e1e1e1;
+}
+.footer {
+	padding: 100px 0 35px 0;
+	text-align: center;
+	font-size: 11px;
+	color: #d3d3d3;
+}
+
