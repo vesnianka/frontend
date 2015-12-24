@@ -1,0 +1,57 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+tr,
+td {
+	border: 9px solid #232322;
+}
+table {
+	margin: 50px 0 0 150px;
+	border-collapse: collapse;
+	border: 10px solid white;
+}
+td {
+	height: 45px;
+	width: 50px;
+}
+.y {
+	height: 90px;
+}
+.x {
+	width: 100px;
+}
+.xy {
+	width: 100px;
+	height: 30px;
+}
+.one td:nth-child(3) {
+	background-color: #ffea51;
+}
+.two td:nth-child(2) {
+	background-color: #ff592b;
+}
+.two td:nth-child(3) {
+	background-color: #ffff71;
+}
+.six td:nth-child(1) {
+	background-color: #1e2c27;
+}
+.six td:nth-child(2) {
+	background-color: #1e2c27;
+}
+.seven td:nth-child(1) {
+	background-color: #fdec68;
+}
+.seven td:nth-child(2) {
+	background-color: #1e2c27;
+}
+.seven td:nth-child(3) {
+	background-color: #1e2c27;
+}
+.seven td:nth-child(5) {
+	background-color: #185799;
+}
+.eight td:nth-child(2) {
+	background-color: #0f1914;
+}
